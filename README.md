@@ -24,7 +24,7 @@
 1. Подготовьте ваши данные в формате CSV.
     Скачайте с ресурса:https://www.kaggle.com/datasets/joebeachcapital/windows-malwares/data csv файл API_Functions.csv.
 
-2. Поместите ваши CSV-файлы в папку `./TestData/`.
+2. Создайте папку 'TestData' в корневой директории и поместите ваши CSV-файлы в папку `./TestData/`.
 
 3. Запустите скрипт для обучения модели:
 
